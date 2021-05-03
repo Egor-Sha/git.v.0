@@ -1,3 +1,2 @@
-wow new file in readme branch
-
+git & github checking
 #hi
